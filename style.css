@@ -35,7 +35,7 @@ body {
 
 #escola{
     background-image: linear-gradient(#f70404,#0e0d0d);
-    color: white;
+    color: rgb(238, 230, 230);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@ body {
 }
 
 #estudante{
-    background-color: white;
+    background-color: rgb(161, 7, 7);
     padding: 24px 0;
 }
 
